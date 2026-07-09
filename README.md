@@ -1,5 +1,5 @@
 ## Hi there, I'm Dmitry! 👋
-### 🚀 QA Engineer | Quality Assurance Specialist
+###  🧑🏻‍💻 QA Engineer | Quality Assurance Specialist
 
 ## 📊 Статистика
 
