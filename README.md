@@ -1,5 +1,5 @@
-## Приветствую！ 👋
-Меня зовут Дмитрий, я QA Engineer
+## Hi there, I'm Dmitry! 👋
+### 🚀 QA Engineer | Quality Assurance Specialist
 
 ## 📊 Статистика
 
