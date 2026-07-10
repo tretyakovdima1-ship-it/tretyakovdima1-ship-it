@@ -76,13 +76,13 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 📋 Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
 [<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
 
 <br>
 
-## 🎒 Образование
+## 📜 Образование
 [<img src="/Certificate1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/tretyakovdima1-ship-it/tretyakovdima1-ship-it/refs/heads/main/Certificate1.png)
 [<img src="/Certificate2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/tretyakovdima1-ship-it/tretyakovdima1-ship-it/refs/heads/main/Certificate2.png)
 [<img src="/Diplom1.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/tretyakovdima1-ship-it/tretyakovdima1-ship-it/refs/heads/main/Diplom1.png)
@@ -90,7 +90,7 @@
 <br>
 <br>
 
-## 🤝 Контакт
+## 💌 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:tretyakovdima1@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tretyakovdima)
 
